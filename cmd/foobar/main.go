@@ -13,4 +13,5 @@ func main() {
 	fmt.Println(hello.Hi())
 	fmt.Println(privet.PrivetMir())
 	fmt.Println(foobar.Aloha())
+	fmt.Println("Bye!")
 }
