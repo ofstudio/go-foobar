@@ -1,0 +1,2 @@
+# go-foobar
+Doing nothing
